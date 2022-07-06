@@ -1,0 +1,22 @@
+{
+  "name": "jest-unit",
+  "version": "1.0.0",
+  "description": "Tests practice.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilya-yurov/jest-unit.git"
+  },
+  "author": "Ilya Yurov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ilya-yurov/jest-unit/issues"
+  },
+  "homepage": "https://github.com/ilya-yurov/jest-unit#readme",
+  "devDependencies": {
+    "jest": "^28.1.2"
+  }
+}
