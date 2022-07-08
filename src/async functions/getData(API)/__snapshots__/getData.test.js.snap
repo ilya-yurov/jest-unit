@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`getData asynс API function testing Test that getData() return correct values 1`] = `
+Array [
+  "3",
+  "4",
+  "5",
+]
+`;
